@@ -4,7 +4,7 @@
 set -euo pipefail
 
 echo -e "\n📦 Installing Spec Kit CLI..."
-pip install git+https://github.com/github/spec-kit.git
+pip install git+https://github.com/github/spec-kit.git@v0.0.86
 echo "✅ Done"
 
 echo -e "\n🤖 Installing Copilot CLI..."
